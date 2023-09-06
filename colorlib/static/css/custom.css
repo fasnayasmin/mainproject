@@ -1,0 +1,17 @@
+body
+{
+background-color:pink;
+}
+  .ht-right  {
+margin-right:1000px;
+}
+
+
+.inner-header .nav-right li.cart-icon a {
+    color: #252525;
+    position: relative;
+    display: inline-block;
+}
+
+
+
